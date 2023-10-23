@@ -1,0 +1,51 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Heading {
+  border: 1px solid rgb(0, 0, 0);
+  width: 300px;
+  margin-left: 200px;
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}
+
+.input {
+  font-size: small;
+  font-style: italic;
+}
+
+.Submit {
+  background-color: blue !important;
+  width: 130px !important;
+  height: 40px !important;
+  margin-left: 280px !important;
+}
+
+.Parentclass {
+  border: 1px solid rgb(211, 209, 206);
+  background-color: rgb(250, 249, 247);
+  background-color: rgb(255, 255, 255);
+  color: white;
+  border-left: solid 70px transparent;
+  border-right: solid 70px transparent;
+  /* border-bottom: solid 70px #fff; */
+  filter: drop-shadow(0 10px 10px #161616);
+  border-radius: 10px;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 500px;
+  width: 260px;
+}
+
+.Button {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  margin-right: 20px;
+}
